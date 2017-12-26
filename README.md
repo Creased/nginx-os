@@ -21,3 +21,9 @@ Exemple:
 ```bash
 linuxkit run -publish 80:80/tcp -containerized nginx-os
 ```
+
+or simply use [boot.sh](boot.sh) script:
+
+```
+./boot.sh
+```
